@@ -1,0 +1,9 @@
+networks_testing/
+final_results/
+content/
+ckpt/
+backbone/resnext/*t7
+backbone/resnext/*pth
+backbone/resnext/*zip
+backbone/resnext/torch_legacy_env/
+wandb/
